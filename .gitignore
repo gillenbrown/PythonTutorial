@@ -1,2 +1,5 @@
 # ingore chekpoints, since those are useless to anyone but me.
 .ipynb_checkpoints/
+
+*.pdf
+*.png

@@ -1,11 +1,11 @@
 # PythonTutorial
-Python tutorials focused on plotting for the UMKC Galaxy Evolution Group. The tutorials are in the form of IPython notebooks. This means they can be viewed as static we pages (see links below), or by interactively running them. See the IPython notebook tutorial for more on how to get them to work. It's probably best to do that one first anyway, since all the other tutorials are made as notebooks. If you understand how they work, you can work through the code yourself, rather than just looking at static webpages.
+Python tutorials focused on plotting for the UMKC Galaxy Evolution Group. The tutorials are in the form of Jupyter notebooks. This means they can be viewed as static we pages (see links below), or by interactively running them. See the Jupyter notebook tutorial for more on how to get them to work. It's probably best to do that one first anyway, since all the other tutorials are made as notebooks. If you understand how they work, you can work through the code yourself, rather than just looking at static webpages.
 
 ### Tutorial Web Pages
 
-If you want to just look at the tutorials without working through them, they are available online. You'll need to start by looking at the IPython tutorial online, since all the other ones are based on it. Here are the links:
-* [IPython notebooks](http://nbviewer.ipython.org/github/gillenbrown/PythonTutorial/blob/master/IPython.ipynb)
-* [Plotting](http://nbviewer.ipython.org/github/gillenbrown/PythonTutorial/blob/master/Plotting.ipynb)
+If you want to just look at the tutorials without working through them, they are available online. You'll need to start by looking at the Jupyter tutorial online, since all the other ones are based on it. Here are the links:
+* [Jupyter notebooks](http://nbviewer.jupyter.org/github/gillenbrown/PythonTutorial/blob/master/Notebook.ipynb)
+* [Plotting](http://nbviewer.jupyter.org/github/gillenbrown/PythonTutorial/blob/master/Plotting.ipynb)
 
 ### Downloading the tutorials
 
@@ -19,4 +19,4 @@ git clone https://github.com/gillenbrown/PythonTutorial.git
   The tutorial will download into the directory you are in.
 * The tutorials can be downloaded as a .zip by clicking the `Download ZIP` button on the right.
 
-The IPython notebook tutorial gives instructions on how to open the files. 
+The Jupyter notebook tutorial gives instructions on how to open the files. 
